@@ -1,0 +1,5 @@
+username,role,expected
+Meghana,tester,success
+Pavan,admin,success
+InvalidUser,guest,failure
+,unknown,validation

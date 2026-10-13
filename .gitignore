@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+reports/
+allure-results/
+allure-report/
+.env
+.env.*
+!.env.example
+.idea/
+.DS_Store
